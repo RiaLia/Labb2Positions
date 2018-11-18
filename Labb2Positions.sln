@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb2Positions", "Labb2Positions\Labb2Positions.csproj", "{AE49AF45-39F5-4169-92A6-F7BE83D0BA2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE49AF45-39F5-4169-92A6-F7BE83D0BA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE49AF45-39F5-4169-92A6-F7BE83D0BA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE49AF45-39F5-4169-92A6-F7BE83D0BA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE49AF45-39F5-4169-92A6-F7BE83D0BA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE49AF45-39F5-4169-92A6-F7BE83D0BA2C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AE49AF45-39F5-4169-92A6-F7BE83D0BA2C}.Debug|x86.Build.0 = Debug|Any CPU
+		{AE49AF45-39F5-4169-92A6-F7BE83D0BA2C}.Release|x86.ActiveCfg = Release|Any CPU
+		{AE49AF45-39F5-4169-92A6-F7BE83D0BA2C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
